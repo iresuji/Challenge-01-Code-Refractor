@@ -61,7 +61,7 @@ main {
     margin-left: 20px;
 }
 /*h2 is used for main and footer, this is the styling for the main part of the website*/
-main h2 {
+h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -121,6 +121,6 @@ footer {
     text-align: center;
 }
 
-footer h2 {
+h4 {
     font-size: 20px;
 }
